@@ -1,0 +1,23 @@
+html{
+    background: url(bouncin.gif);
+    background-size: 300px;
+    color: white;
+    font-size: 32px;
+    text-shadow: 15px 10px 10px blue;
+}
+
+h1,
+h2{
+    text-align: center;
+} 
+.container{
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    align-content: space-between;
+    height: 30px;
+    justify-content: space-around;
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 20px;
